@@ -3,6 +3,8 @@
 [![Latest release](https://img.shields.io/github/v/release/romanSPB15/hot-reload)](https://github.com/romanSPB15/hot-reload/releases)
 [![README-ENGLISH](https://img.shields.io/badge/README-ENGLISH-blueviolet.svg?style=flat-square)](https://github-com.translate.goog/romanSPB15/hot-reload?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=ru&_x_tr_pto=wapp)  
 
+![liver-reload](demo/demo.gif)
+
 🚀 Live reload сервер для веб-разработки на Go.
 ## Запуск
 Скачайте последнюю версию из Releases и запустите.
